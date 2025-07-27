@@ -1,10 +1,10 @@
-🎉船新项目：[ACL4SSR Mannix 订阅转换极速版](https://github.com/zsokami/cvt)
+🎉船新项目：[ACL4SSR Mannix 订阅转换极速版](https://github.com/heeteve/cvt)
 
 ## ACL4SSR_Online_Full_Mannix.ini
 
 自定义 订阅转换 配置转换 规则转换 的远程配置：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
 
 修改自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
 
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Manni
 - `https://mnnx.cc/0z?url={原订阅链接}` (api-suc.0z.gs)
 - `https://mnnx.cc/{自定义后端地址}?url={原订阅链接}`
 
-订阅转换反代（自动去除无节点的分组等功能，项目地址：<https://github.com/zsokami/subcvt-mannix>）：
+订阅转换反代（自动去除无节点的分组等功能，项目地址：<https://github.com/heeteve/subcvt-mannix>）：
 
 `https://sc.mnnx.cc/{原订阅链接}`
 
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Manni
 
 去除国家/地区：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
 远程配置短链：`https://min.mnnx.cc/config`
 
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
 无 DNS 泄漏：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix_No_DNS_Leak.ini
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Full_Mannix_No_DNS_Leak.ini
 
 - `https://ndl.mnnx.cc/config`
 - `https://ndl.mnnx.cc/v1?url={原订阅链接}` (api.v1.mk)
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Manni
 - `https://ndl.mnnx.cc/0z?url={原订阅链接}` (api-suc.0z.gs)
 - `https://ndl.mnnx.cc/{自定义后端地址}?url={原订阅链接}`
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix_No_DNS_Leak.ini
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Mannix_No_DNS_Leak.ini
 
 - `https://minndl.mnnx.cc/config`
 - `https://minndl.mnnx.cc/v1?url={原订阅链接}` (api.v1.mk)
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix_No_
 
 ### 性能优化 2
 
-🎉船新项目：[ACL4SSR Mannix 订阅转换极速版](https://github.com/zsokami/cvt)
+🎉船新项目：[ACL4SSR Mannix 订阅转换极速版](https://github.com/heeteve/cvt)
 
 后端：`https://arx.cc/{原订阅链接}`
 
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix_No_
 
 原版订阅转换后端使用本配置时，若节点过多，转换速度很慢。
 
-建议使用性能优化后端（<https://github.com/zsokami/subconverter>，暂无公共服务）
+建议使用性能优化后端（<https://github.com/heeteve/subconverter>，暂无公共服务）
 
 该后端通过预编译和缓存正则，大幅提升转换速度。
 
@@ -91,11 +91,11 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix_No_
 
 添加某些影视/动漫 APP 广告拦截规则：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/BanProgramAD1.list
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/BanProgramAD1.list
 
 附 hosts 文件（自动更新）：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/hosts
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/hosts
 
 ---
 
@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/hosts
 
 **需去除订阅转换链接中的参数 `emoji=true/false` 才能生效**，参考例子：
 
-`https://api.dler.io/sub?target=clash&udp=true&scv=true&config=https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini&url={原订阅链接}`
+`https://api.dler.io/sub?target=clash&udp=true&scv=true&config=https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini&url={原订阅链接}`
 
 ---
 
