@@ -1,4 +1,6 @@
-subp current: https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
+subp current: 
+https://github.com/Heeteve/ACL4SSR/blob/main/ACL4SSR_Online_Mannix.ini
+https://raw.githubusercontent.com/heeteve/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
 快速跳转：
 
