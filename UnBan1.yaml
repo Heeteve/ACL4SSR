@@ -23,3 +23,5 @@ payload:
 - DOMAIN,proxy.yaoyaoling.net
 - DOMAIN-SUFFIX,githubfast.com
 - DOMAIN-SUFFIX,1976f.com
+- DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+- DOMAIN,services.googleapis.cn
